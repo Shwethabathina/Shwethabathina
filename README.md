@@ -24,9 +24,14 @@ When I'm not working through a new idea, I'm probably exploring a tool I just di
 
 </td><td width="39%" valign="top">
 
-<img src="assets/funny-coding-cat.gif" width="100%" alt="Funny pastel pixel cat typing away at a laptop" />
+<img src="assets/pixel-programmer.gif" width="100%" alt="Animated pastel pixel-art programmer girl coding" />
 
 </td></tr></table>
+
+<div align="center">
+  <sub>When the code works on the first try... 🐱</sub><br/>
+  <img src="assets/funny-coding-cat.gif" width="260" alt="Funny animated pixel cat typing at a computer" />
+</div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="Soft animated lavender divider" /></div>
 
