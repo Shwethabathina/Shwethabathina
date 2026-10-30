@@ -24,9 +24,7 @@ When I'm not working through a new idea, I'm probably exploring a tool I just di
 
 </td><td width="39%" valign="top">
 
-<img src="assets/pixel-programmer.gif" width="100%" alt="Original pixel-art programmer working at a laptop, animated in pastel lavender and pink" />
-
-<img src="assets/terminal.svg" width="100%" alt="Animated engineering terminal" />
+<img src="assets/funny-coding-cat.gif" width="100%" alt="Funny pastel pixel cat typing away at a laptop" />
 
 </td></tr></table>
 
