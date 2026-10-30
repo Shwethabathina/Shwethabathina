@@ -24,7 +24,7 @@ When I'm not working through a new idea, I'm probably exploring a tool I just di
 
 </td><td width="39%" valign="top">
 
-<img src="assets/pastel-coding-loop.gif" width="100%" alt="Original animated pastel illustration of a developer coding under twinkling stars" />
+<img src="assets/pixel-programmer.gif" width="100%" alt="Original pixel-art programmer working at a laptop, animated in pastel lavender and pink" />
 
 <img src="assets/terminal.svg" width="100%" alt="Animated engineering terminal" />
 
@@ -56,7 +56,7 @@ When I'm not working through a new idea, I'm probably exploring a tool I just di
 
 ### 🐍 Contribution snake
 
-_This animation appears after the GitHub Action is enabled and has completed its first successful run._
+_The snake appears once the workflow has been added on GitHub and completes successfully._
 
 <div align="center">
   <picture>
