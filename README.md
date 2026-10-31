@@ -1,89 +1,82 @@
-<div align="center">
-  <img src="assets/pastel-hero.png" alt="Shweatha | AI & Software Engineer — pastel developer banner" width="100%" />
+<p align="center">
+  <img src="assets/pastel-hero.png" width="100%" alt="Shweatha — AI and Software Engineer pastel illustrated banner" />
+</p>
 
-  <p>
-    <a href="https://shweatha-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-D8B4FE?style=for-the-badge&logo=vercel&logoColor=271639" /></a>
-    <a href="https://www.linkedin.com/in/shweatha-bathina-mallikarjuna-6a796b266/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-F9A8D4?style=for-the-badge&logo=linkedin&logoColor=271639" /></a>
-    <a href="https://github.com/Shwethabathina?tab=repositories"><img alt="My code" src="https://img.shields.io/badge/MY_CODE-C4B5FD?style=for-the-badge&logo=github&logoColor=271639" /></a>
-  </p>
+<h1 align="center">Hey, I'm Shweatha! 🌸</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1300&color=B77CE8&center=true&vCenter=true&width=620&height=32&lines=AI+%26+Software+Engineer;Building+intelligent+systems;Turning+curiosity+into+what%27s+next" alt="Animated role text" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3400&pause=1100&color=C084FC&center=true&vCenter=true&width=650&height=45&lines=AI+%26+Software+Engineer;Building+intelligent+software;Always+curious%2C+always+building" alt="AI and software engineer animated introduction" />
+</p>
 
-## ✨ A little about me
+<p align="center">
+  <a href="https://shweatha-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D8B4FE?style=for-the-badge&logo=vercel&logoColor=25152f" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shweatha-bathina-mallikarjuna-6a796b266/"><img src="https://img.shields.io/badge/LinkedIn-F9A8D4?style=for-the-badge&logo=linkedin&logoColor=25152f" alt="LinkedIn" /></a>
+  <a href="https://github.com/Shwethabathina?tab=repositories"><img src="https://img.shields.io/badge/My_Code-C4B5FD?style=for-the-badge&logo=github&logoColor=25152f" alt="My code" /></a>
+</p>
 
-<table>
+<h2 align="center">✨ About Me</h2>
+
+<table align="center">
 <tr>
-<td width="64%" valign="middle">
+<td width="67%" valign="middle">
 
 Hey, I'm **Shweatha**! 👋
 
 I love seeing an idea turn into something that actually works — whether that's a machine learning model, a full-stack app, or a tiny fix that took way too much debugging.
 
-I build across **AI and software engineering**, and lately I've been exploring **agentic AI, computer vision, and cybersecurity**. I'm happiest when I'm learning something new and getting it to work in the real world.
+I build across **AI and software engineering** and enjoy exploring **agentic AI, computer vision, and cybersecurity**. I like figuring out how things work, improving them, and turning what I've learned into something useful.
 
-🌸 [Take a look at my portfolio](https://shweatha-portfolio.vercel.app/)
+🌸 **Want to see what I've been building?** [Explore my portfolio](https://shweatha-portfolio.vercel.app/)
 
 </td>
-<td width="36%" align="center" valign="middle">
-  <img src="assets/pixel-programmer.gif" width="240" alt="Animated pastel pixel programmer girl" />
+<td width="33%" valign="middle" align="center">
+<img src="assets/pixel-programmer.gif" width="220" alt="Pastel pixel programmer girl coding" />
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="assets/funny-coding-cat.gif" width="195" alt="A funny pastel pixel cat debugging" />
-  <p><sub>When it works on the first try... I get suspicious. 🐱</sub></p>
-</div>
+<p align="center">
+  <img src="assets/funny-coding-cat.gif" width="180" alt="Funny pastel cat debugging code" />
+  <br/>
+  <sub>Me debugging one tiny thing for an unreasonable amount of time 🐱</sub>
+</p>
 
-<div align="center"><img src="assets/divider.svg" width="90%" alt="Pastel divider" /></div>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## 🧰 Engineering Toolkit
+<p align="center"><strong>Programming & Development</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,spring,html,css&perline=8" alt="Python Java C++ JavaScript React Spring Boot HTML CSS" />
+</p>
 
-<div align="center">
+<p align="center"><strong>Machine Learning & Data</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=8" alt="PyTorch TensorFlow OpenCV scikit-learn" />
+</p>
 
-**Languages & Frameworks**
+<p align="center"><strong>Cloud & Tools</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,postgres,mysql,mongodb&perline=8" alt="Docker Kubernetes AWS Google Cloud Git PostgreSQL MySQL MongoDB" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,spring,html,css&perline=8" alt="Programming languages and frameworks" />
+<h2 align="center">📈 GitHub Activity</h2>
+<p align="center">
+  <a href="https://github.com/Shwethabathina?tab=overview"><img src="https://img.shields.io/badge/View_My_Contributions-BE9FE8?style=for-the-badge&logo=github&logoColor=25152f" alt="View my GitHub contributions" /></a>
+  <a href="https://github.com/Shwethabathina?tab=repositories"><img src="https://img.shields.io/badge/Explore_Repositories-F4B4D3?style=for-the-badge&logo=github&logoColor=25152f" alt="Explore my repositories" /></a>
+</p>
 
-**AI, Machine Learning & Data**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=8" alt="Machine learning frameworks" />
-
-**Cloud, Tools & Databases**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,postgres,mysql,mongodb&perline=8" alt="Cloud tools and databases" />
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="90%" alt="Pastel divider" /></div>
-
-## 📈 GitHub Activity
-
-<div align="center">
-<a href="https://github.com/Shwethabathina?tab=overview"><img src="assets/activity-panel.svg" width="100%" alt="Explore Shweatha's GitHub contributions and repositories" /></a>
-<p><sub>View my actual GitHub activity and public repositories</sub></p>
-</div>
-
-## 🐍 My purple contribution snake
-
-<div align="center">
+<h2 align="center">🐍 Contribution Graph</h2>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shwethabathina/Shwethabathina/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Shwethabathina/Shwethabathina/output/github-contribution-grid-snake.svg" alt="Animated lavender and pink contribution snake" width="100%" />
+    <img src="https://raw.githubusercontent.com/Shwethabathina/Shwethabathina/output/github-contribution-grid-snake.svg" width="100%" alt="Animated pastel purple contribution snake" />
   </picture>
-</div>
+</p>
 
-<div align="center"><img src="assets/divider.svg" width="90%" alt="Pastel divider" /></div>
-
-## 🌷 Let's Connect
-
-<div align="center">
-  <a href="https://shweatha-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-C4B5FD?style=flat-square&logo=vercel&logoColor=271639" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/shweatha-bathina-mallikarjuna-6a796b266/"><img src="https://img.shields.io/badge/LinkedIn-F9A8D4?style=flat-square&logo=linkedin&logoColor=271639" alt="LinkedIn" /></a>
-  <a href="https://github.com/Shwethabathina"><img src="https://img.shields.io/badge/GitHub-D8B4FE?style=flat-square&logo=github&logoColor=271639" alt="GitHub" /></a>
-
-  <img src="assets/footer.svg" width="100%" alt="Lavender wave footer" />
-
-  <sub>Turning curiosity into what's next ✨</sub>
-</div>
+<h2 align="center">🌷 Let's Connect</h2>
+<p align="center">
+  <a href="https://shweatha-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D8B4FE?style=for-the-badge&logo=vercel&logoColor=25152f" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shweatha-bathina-mallikarjuna-6a796b266/"><img src="https://img.shields.io/badge/LinkedIn-F9A8D4?style=for-the-badge&logo=linkedin&logoColor=25152f" alt="LinkedIn" /></a>
+  <a href="https://github.com/Shwethabathina"><img src="https://img.shields.io/badge/GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=25152f" alt="GitHub" /></a>
+</p>
+<p align="center"><img src="assets/footer.svg" width="100%" alt="Pastel lavender wave footer" /></p>
+<p align="center"><sub>Turning curiosity into what's next ✨</sub></p>
