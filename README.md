@@ -26,7 +26,7 @@ I love seeing an idea turn into something that actually works — whether that's
 
 I build across **AI and software engineering** and enjoy exploring **agentic AI, computer vision, and cybersecurity**. I like figuring out how things work, improving them, and turning what I've learned into something useful.
 
-🌸 **Want to see what I've been building?** [Explore my portfolio](https://shweatha-portfolio.vercel.app/)
+
 
 </td>
 <td width="33%" valign="middle" align="center">
@@ -58,13 +58,13 @@ I build across **AI and software engineering** and enjoy exploring **agentic AI,
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,postgres,mysql,mongodb&perline=8" alt="Docker Kubernetes AWS Google Cloud Git PostgreSQL MySQL MongoDB" />
 </p>
 
-<h2 align="center">📈 GitHub Activity</h2>
+<h2 align="center"> GitHub Activity</h2>
 <p align="center">
   <a href="https://github.com/Shwethabathina?tab=overview"><img src="https://img.shields.io/badge/View_My_Contributions-BE9FE8?style=for-the-badge&logo=github&logoColor=25152f" alt="View my GitHub contributions" /></a>
   <a href="https://github.com/Shwethabathina?tab=repositories"><img src="https://img.shields.io/badge/Explore_Repositories-F4B4D3?style=for-the-badge&logo=github&logoColor=25152f" alt="Explore my repositories" /></a>
 </p>
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">Contribution Graph</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shwethabathina/Shwethabathina/output/github-contribution-grid-snake-dark.svg" />
